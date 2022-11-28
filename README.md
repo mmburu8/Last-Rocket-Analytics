@@ -4,8 +4,9 @@ Website: https://naneai.shinyapps.io/Last_Rocket/
 
 This application looks at number of views, likes and comments of each song in an album
 
-Inspired by my love of music and passion for data analytics
-Shout out to Takeoff True Legend, Microsoft Azure for free education and Google Developers for free resources
+Inspired by my love of music and passion for data analytics.
+
+Shout out to Takeoff True Legend, Microsoft Azure for free education and Google Developers for free resources.
 
 By Martin Mburu
 
@@ -20,19 +21,25 @@ The cleaned data was stored as an excel file. The frontend was done in R by Rshi
 # SETUP AND REQUIREMENTS
 
 Acquire a Youtube API from Google developers so as to collect data.
+
 Backend: Python and Jupyter Notebook should be installed.
+
 Frontend: Rstudio, R and libraries should be installed. Create an account in shinyapps.io
 
 # REQUIREMENTS USED
 
 Languages: Python and R
+
 Libraries: shinythemes, tidyverse, scales, requests, pandas
+
 IDE: Jupyter Notebook, Rstudio
+
 Others: shinyapps.io, Excel
 
 SUPPORT AND CONTACT DETAILS
 
 If you run to an issue or bug or you have a problem send me an email at mmburu961@gmail.com.
+
 Follow me on twitter: https://twitter.com/Martinm24703698
 
 LICENSE
