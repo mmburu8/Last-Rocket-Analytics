@@ -16,7 +16,7 @@ Current Version: 2022-11-28
 
 As per 2022-11-28, application contains 19 artists who produced albums in 2022. Examples Wizkid, Megan Thee Stallion.
 The source of this data is Youtube and was collected using a YoutubeAPI. The data was processed and merged using Python.
-The cleaned data was stored as an excel file. The frontend was done in R by Rshiny. The website was deployed in shinyapss.io
+The cleaned data was stored as an excel file. The frontend was done in R by Rshiny. The website was deployed in shinyapps.io
 
 # SETUP AND REQUIREMENTS
 
